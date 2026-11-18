@@ -50,7 +50,7 @@ I am an **Energy Economist and PhD candidate in Resource Economics** at Ferdowsi
 ## 📫 Connect with Me
 - **Email:** mahemay@mail.um.ac.ir
 - **Phone:** +98 915 385 2049
-- **LinkedIn:** linkedin.com/in/mahemay
+- - **LinkedIn:** [linkedin.com/in/mahemay](https://www.linkedin.com/in/mahemay)
 
 
 ---
