@@ -1,15 +1,15 @@
 # Hi there, I'm Mohammad Akbarzadeh 👋
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/EViews-Econometrics-blue?style=flat" alt="EViews">
-  <img src="https://img.shields.io/badge/Energy%20Economics-Green-success?style=flat" alt="Energy Economics">
-</p>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Energy%20Economist-Renewables%20%26%20Climate-blue?style=for-the-badge&logo=esphome" alt="Energy Economist">
   <img src="https://img.shields.io/badge/PhD%20Candidate-Resource%20Economics-green?style=for-the-badge" alt="PhD Candidate">
 </p>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/EViews-Econometrics-blue?style=flat" alt="EViews">
+  <img src="https://img.shields.io/badge/Energy%20Economics-Green-success?style=flat" alt="Energy Economics">
+</p>
 I am an **Energy Economist and PhD candidate in Resource Economics** at Ferdowsi University of Mashhad. My core expertise lies at the intersection of energy economics, renewable energy systems, climate policy, and electricity markets, combining data-driven machine learning methods with traditional economic appraisal.
 
 ---
