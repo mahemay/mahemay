@@ -36,7 +36,6 @@ I am an **Energy Economist and PhD candidate in Resource Economics** at Ferdowsi
 
 ## 🏆 Honors & Awards
 - **National Elite Foundation:** Recognized as a national elite selectee through the Afra Technological Strategic School in clean/new energies.
-- Achieved elite status points (53 points) in the Sina system (National Elites Foundation).
 
 ---
 
@@ -51,8 +50,8 @@ I am an **Energy Economist and PhD candidate in Resource Economics** at Ferdowsi
 ## 📫 Connect with Me
 - **Email:** mahemay@mail.um.ac.ir
 - **Phone:** +98 915 385 2049
-- **LinkedIn:** [Add your LinkedIn URL here]
-- **Google Scholar:** [Add your Google Scholar URL here]
+- **LinkedIn:** linkedin.com/in/mahemay
+
 
 ---
 <p align="center">
